@@ -66,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FeedTest">
+  <component name="RunManager" selected="JUnit.FarmTest">
     <configuration name="DisasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
@@ -76,21 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisasterTest.updateBushels3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FarmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DisasterTest" />
-      <option name="METHOD_NAME" value="updateBushels3" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="FarmTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisasterTest.updatePopulation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FarmTest.updateBushelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DisasterTest" />
-      <option name="METHOD_NAME" value="updatePopulation" />
+      <option name="MAIN_CLASS_NAME" value="FarmTest" />
+      <option name="METHOD_NAME" value="updateBushelsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FarmTest" />
+        <item itemvalue="JUnit.FarmTest.updateBushelsTest" />
         <item itemvalue="JUnit.FeedTest" />
         <item itemvalue="JUnit.FeedTest.feedPopulationReturnDeathsTest" />
         <item itemvalue="JUnit.DisasterTest" />
-        <item itemvalue="JUnit.DisasterTest.updateBushels3" />
-        <item itemvalue="JUnit.DisasterTest.updatePopulation" />
       </list>
     </recent_temporary>
   </component>
