@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9312799e-6b24-441d-9937-58bb2ca237f0" name="Changes" comment="" />
+    <list default="true" id="9312799e-6b24-441d-9937-58bb2ca237f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LandTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,11 @@
     "JUnit.DisasterTest.executor": "Run",
     "JUnit.DisasterTest.updateBushels3.executor": "Run",
     "JUnit.DisasterTest.updatePopulation.executor": "Run",
+    "JUnit.FarmTest.executor": "Run",
+    "JUnit.FarmTest.updateBushelsTest.executor": "Run",
+    "JUnit.FeedTest.executor": "Run",
     "JUnit.FeedTest.feedPopulationReturnDeathsTest.executor": "Run",
+    "JUnit.LandTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -66,12 +73,11 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FarmTest">
-    <configuration name="DisasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in Hammurabi">
+    <configuration name="All in Hammurabi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DisasterTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,12 +110,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FeedTest.feedPopulationReturnDeathsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FeedTest" />
-      <option name="METHOD_NAME" value="feedPopulationReturnDeathsTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="LandTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in Hammurabi" />
+        <item itemvalue="JUnit.LandTest" />
         <item itemvalue="JUnit.FarmTest" />
         <item itemvalue="JUnit.FarmTest.updateBushelsTest" />
         <item itemvalue="JUnit.FeedTest" />
-        <item itemvalue="JUnit.FeedTest.feedPopulationReturnDeathsTest" />
-        <item itemvalue="JUnit.DisasterTest" />
       </list>
     </recent_temporary>
   </component>
