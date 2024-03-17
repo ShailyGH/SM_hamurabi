@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9312799e-6b24-441d-9937-58bb2ca237f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EndGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FeedingPopulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hammurabi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaintainCrops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NaturalDisasters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TradingLand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DisasterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FarmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LandTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="9312799e-6b24-441d-9937-58bb2ca237f0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +46,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.DisasterTest.executor": "Run",
     "JUnit.DisasterTest.updateBushels3.executor": "Run",
     "JUnit.DisasterTest.updatePopulation.executor": "Run",
+    "JUnit.FeedTest.feedPopulationReturnDeathsTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -76,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DisasterTest">
+  <component name="RunManager" selected="JUnit.FeedTest">
     <configuration name="DisasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,6 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FeedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hammurabi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FeedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeedTest.feedPopulationReturnDeathsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hammurabi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FeedTest" />
+      <option name="METHOD_NAME" value="feedPopulationReturnDeathsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SM_hamurabi" />
       <method v="2">
@@ -121,6 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FeedTest" />
+        <item itemvalue="JUnit.FeedTest.feedPopulationReturnDeathsTest" />
         <item itemvalue="JUnit.DisasterTest" />
         <item itemvalue="JUnit.DisasterTest.updateBushels3" />
         <item itemvalue="JUnit.DisasterTest.updatePopulation" />
