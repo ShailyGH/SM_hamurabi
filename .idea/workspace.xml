@@ -73,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in Hammurabi">
+  <component name="RunManager" selected="JUnit.FeedTest">
     <configuration name="All in Hammurabi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,21 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FarmTest.updateBushelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Hammurabi" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FarmTest" />
-      <option name="METHOD_NAME" value="updateBushelsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FeedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Hammurabi" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FeedTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeedTest.feedPopulationReturnDeathsTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hammurabi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FeedTest" />
+      <option name="METHOD_NAME" value="feedPopulationReturnDeathsTest2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FeedTest" />
+        <item itemvalue="JUnit.FeedTest.feedPopulationReturnDeathsTest2" />
         <item itemvalue="JUnit.All in Hammurabi" />
         <item itemvalue="JUnit.LandTest" />
         <item itemvalue="JUnit.FarmTest" />
-        <item itemvalue="JUnit.FarmTest.updateBushelsTest" />
-        <item itemvalue="JUnit.FeedTest" />
       </list>
     </recent_temporary>
   </component>
